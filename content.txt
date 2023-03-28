@@ -1,0 +1,19 @@
+
+- Node.js is an open source, lightweight, cross-platform javascript runtime environment that allows developers to build web applications. 
+It is built on the v8 javascript engine used in chrome browser and it provides an event-driven, non-blocking I/O model
+
+Unlike, the traditional server side, node.js is known for its fast performance. it is highly scalable and can handle large amount of data and request simultaneously
+
+- Node.js can handle large amount of data and requests
+it allows fast and efficient code execution
+it is easy to learn and use
+it support real time applications such as chat applications and gaming
+
+- Download node.js installer package from http://nodejs.org and run the package.
+you can check the latest version on your terminal by typing `node -v`
+
+- Node.js module system is a way to organize code. it allows developers to break down their code into smaller and reusable parts called module.
+you can export the module with `module.exports` and import the module with the `require()` method
+
+- npm modules are packages of code that are published by other programmers to the npm registry and can be used in other projects to provide additional functionality.
+open your terminal, type `npm install` followed by the name of the module.
